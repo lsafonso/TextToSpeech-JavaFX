@@ -49,7 +49,7 @@ public class TextToSpeech extends Application {
         box.getStyleClass().add("body");
 
         // Add the main label
-        box.getChildren().add(createLabel("Text-To-Speech", "text-to-speech-label"));
+        box.getChildren().add(createLabel("Text to Speech", "text-to-speech-label"));
 
         // Create and configure the text area
         textArea = new TextArea();
