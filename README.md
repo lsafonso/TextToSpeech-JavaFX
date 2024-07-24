@@ -1,6 +1,7 @@
 <h2>Text to Speech App</h2>
 
-![image](https://github.com/user-attachments/assets/d3392d8a-43ee-4cb4-89cf-6a6a8b5294a8)
+![image](https://github.com/user-attachments/assets/d7b77cd2-18a4-4d49-9c61-e2a4fc12e0c9)
+
 
 <h1>Installation</h1>
 <h2>JavaFX and IntelliJ IDEA</h2>
