@@ -6,8 +6,8 @@
 <h1>Installation</h1>
 <h2>JavaFX and IntelliJ IDEA</h2>
 
-<h3>Download this project and JDK </h3>
-<p>1. Download this project and download the appropriate JavaFX SDK for your operating system and unzip it to a desired location, for instance /Users/your-user/Downloads/javafx-sdk-21.</p>
+<h3>1. Download the project and JDK </h3>
+<p>Download this project and download the appropriate JavaFX SDK for your operating system and unzip it to a desired location, for instance /Users/your-user/Downloads/javafx-sdk-21.</p>
 <a href="https://openjfx.io/index.html" target="_blank">Openjfx.io</a>
 
 <h3>2. Set JDK 21</h3>
